@@ -1,5 +1,5 @@
-title: "Jeykill Theme"
-description: "This is gonna be my new Jeykill theme."
+title: "Jekyll Theme"
+description: "This is gonna be my new Jekyll theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
