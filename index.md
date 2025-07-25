@@ -1,5 +1,6 @@
 ---
 title: jeykill theme
+layout: default
 ---
 
 # Jeykill Theme
