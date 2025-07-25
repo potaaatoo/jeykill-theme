@@ -1,4 +1,6 @@
 ---
+title: jeykill theme
 ---
 
-# tonic-starter
+# Jeykill Theme
+This is gonna be my new **Jeykill** theme.
