@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: "Jeykill Theme"
+description: "This is gonna be my new Jeykill theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
